@@ -1,8 +1,6 @@
 import { DefaultUi, Player, Youtube } from "@vime/react";
 import { CaretRight, DiscordLogo, FileArrowDown, Lightning } from "phosphor-react";
 
-import '@vime/core/themes/'
-
 export function Video() {
     return (
         <div className="flex-1">
